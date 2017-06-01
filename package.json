@@ -1,0 +1,24 @@
+{
+  "name": "gentle-tdd",
+  "version": "1.0.0",
+  "description": "ejercicio de tdd",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anadurand/gentle-tdd.git"
+  },
+  "keywords": [
+    "test",
+    "tdd",
+    "ejemplo"
+  ],
+  "author": "anadurand",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anadurand/gentle-tdd/issues"
+  },
+  "homepage": "https://github.com/anadurand/gentle-tdd#readme"
+}
